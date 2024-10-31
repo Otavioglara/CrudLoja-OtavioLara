@@ -14,7 +14,7 @@ class Categories extends Model
     protected $fillable = [
         'name',
         'description',
-        'is_available',
+        
     ];
     
 
